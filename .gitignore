@@ -1,0 +1,17 @@
+### Example user template template
+### Example user template
+
+# PyCharm project files
+.idea
+*.iml
+out
+gen
+
+build
+dist
+LibcDB.egg-info
+
+make_db/tmp
+make_db/download
+make_db/db
+
